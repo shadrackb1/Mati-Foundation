@@ -1,10 +1,8 @@
-﻿# Mati Foundation
+# Mati Foundation
 
-Mati Foundation | Restoring Hope, Building Futures
+<img src="./assets/header.svg" width="100%" alt="Mati Foundation" />
 
-## Stack
-
-react Â· vite Â· typescript Â· firebase
+Community foundation in Kilifi supporting vulnerable children and households.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· firebase
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
