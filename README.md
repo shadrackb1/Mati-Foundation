@@ -1,8 +1,12 @@
 # Mati Foundation
 
-<img src="./assets/header.svg" width="100%" alt="Mati Foundation" />
+Community foundation site for Kilifi.
 
-Community foundation in Kilifi supporting vulnerable children and households.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite, Firebase
 
 ## Run locally
 
